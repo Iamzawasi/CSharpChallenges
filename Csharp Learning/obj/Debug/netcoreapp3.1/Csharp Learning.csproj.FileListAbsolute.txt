@@ -1,0 +1,13 @@
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.exe
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.deps.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.runtimeconfig.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.runtimeconfig.dev.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.dll
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\Csharp Learning.pdb
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.csprojAssemblyReference.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.csproj.CoreCompileInputs.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.AssemblyInfoInputs.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.AssemblyInfo.cs
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.dll
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.pdb
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\Csharp Learning.genruntimeconfig.cache

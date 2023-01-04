@@ -1,0 +1,13 @@
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.exe
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.deps.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.runtimeconfig.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.runtimeconfig.dev.json
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.dll
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\bin\Debug\netcoreapp3.1\number detector.pdb
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.csprojAssemblyReference.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.csproj.CoreCompileInputs.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.AssemblyInfoInputs.cache
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.AssemblyInfo.cs
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.dll
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.pdb
+C:\Users\ziaah\source\c# learning\Csharp Learning\Csharp Learning\obj\Debug\netcoreapp3.1\number detector.genruntimeconfig.cache
